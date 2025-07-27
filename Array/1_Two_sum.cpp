@@ -16,7 +16,6 @@ vector<int> twoSumBruteForce(vector<int>& nums, int target) {
 //Optimized Approach: O(n)
 #include <bits/stdc++.h>
 using namespace std;
-
 vector<int> twoSum(vector<int>& nums, int target) {
     unordered_map<int, int> seen;
     for (int i = 0; i < nums.size(); ++i) {
