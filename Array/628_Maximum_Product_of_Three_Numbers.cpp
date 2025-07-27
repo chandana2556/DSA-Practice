@@ -17,7 +17,6 @@ int bruteForceMaxProduct(vector<int>& nums) {
 //Optimized Approach O(n):
 #include <bits/stdc++.h>
 using namespace std;
-
 class Solution {
 public:
     int maximumProduct(vector<int>& nums) {
