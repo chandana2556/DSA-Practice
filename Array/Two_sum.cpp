@@ -1,4 +1,19 @@
 // Problem: Two Sum
+
+
+// Brute Force Approach: O(n^2)
+vector<int> twoSumBruteForce(vector<int>& nums, int target) {
+    for(int i = 0; i < nums.size(); i++) {
+        for(int j = i + 1; j < nums.size(); j++) {
+            if(nums[i] + nums[j] == target) {
+                return {i, j};
+            }
+        }
+    }
+    return {};
+}
+
+//Optimized Approach: O(n)
 #include <bits/stdc++.h>
 using namespace std;
 
