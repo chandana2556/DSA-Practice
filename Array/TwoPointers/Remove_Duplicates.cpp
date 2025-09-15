@@ -1,5 +1,5 @@
 /* Remove Duplicates from Sorted Array
-   Leetcode: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+   Leetcode 26: https://leetcode.com/problems/remove-duplicates-from-sorted-array/
    
    Time Complexity: O(n)
    Space Complexity: O(1)
