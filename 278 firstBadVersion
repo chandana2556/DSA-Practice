@@ -1,3 +1,6 @@
+Time Complexity: O(logn)
+Space Complexity: O(1)
+
 // The API isBadVersion is defined for you.
 // bool isBadVersion(int version);
 
