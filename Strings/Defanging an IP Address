@@ -1,0 +1,24 @@
+#include <iostream>
+using namespace std;
+
+class Solution {
+public:
+    string defangIPaddr(string address) {
+        string result = "";
+        for(char c : address) {
+            if(c == '.')
+                result += "[.]";
+            else
+                result += c;
+        }
+        return result;
+    }
+};
+
+int main() {
+    Solution s;
+    string ip;
+    cin >> ip;
+    cout << s.defangIPaddr(ip) << endl;
+    return 0;
+}

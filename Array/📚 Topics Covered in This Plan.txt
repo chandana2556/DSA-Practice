@@ -1,0 +1,35 @@
+📚 Topics Covered in This Plan
+🔸 Core C++
+Data types, Loops, Functions, Pointers
+
+Time & Space Complexity
+
+🔸 STL
+vector, stack, queue, map, set, unordered_map
+
+Operations: insert, delete, traverse, search
+
+🔸 OOPs in C++
+Classes, Objects, Inheritance, Polymorphism, Encapsulation
+
+🔸 Data Structures
+Linked List (Singly, Doubly, Circular)
+
+Stack, Queue, Deque
+
+Trees (BST, Traversals)
+
+Graphs (DFS, BFS)
+
+Strings (Pattern matching, frequency)
+
+Dynamic Programming (LCS, LIS)
+
+🔸 Algorithms
+Sorting (Bubble, Merge, Quick)
+
+Searching (Linear, Binary)
+
+Recursion & Backtracking
+
+Greedy, Sliding Window
